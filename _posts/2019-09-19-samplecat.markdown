@@ -1,8 +1,8 @@
 ---
-title: dum dum dummy
+title: new category one aa raha hai
 date: 2019-05-08 18:46:00 Z
 categories:
-- Future Projects
+- upcoming projects
 tags:
 - Checklist
 - Immigration

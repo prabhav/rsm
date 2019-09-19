@@ -1,8 +1,8 @@
 ---
-title: Welcome to CANADA checklist!
+title: new project 1
 date: 2019-05-08 18:46:00 Z
 categories:
-- Moving to Canada!
+- Past Projects
 tags:
 - Checklist
 - Immigration

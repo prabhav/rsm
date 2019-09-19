@@ -15,7 +15,7 @@
 
 /*some basic settings */
 a {
-  color: #C40200;
+  color: #fa5c5c;
   -moz-transition-duration: 0.3s;
   -o-transition-duration: 0.3s;
   -webkit-transition-duration: 0.3s;
@@ -77,7 +77,7 @@ ul.shortcode-list {
   margin: 0 0 20px;
 }
 ul.shortcode-list i {
-  color: #C40200;
+  color: #fa5c5c;
   margin-right: 3px;
 }
 
@@ -101,8 +101,8 @@ ul.shortcode-list i {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  background-color: #C40200;
-  border: 3px solid #C40200;
+  background-color: #fa5c5c;
+  border: 3px solid #fa5c5c;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
@@ -112,7 +112,7 @@ ul.shortcode-list i {
   margin: 0;
 }
 .big-social i:hover {
-  border: 3px solid #C40200;
+  border: 3px solid #fa5c5c;
   background-color: rgba(249, 206, 6, 0);
 }
 
@@ -186,8 +186,8 @@ ul.shortcode-list i {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
-  background: #C40200;
-  border: 2px solid #C40200;
+  background: #fa5c5c;
+  border: 2px solid #fa5c5c;
 }
 
 .button:hover {
@@ -430,7 +430,7 @@ ul.info a {
   margin-right: 5px;
 }
 ul.info i {
-  border: 1px solid #C40200;
+  border: 1px solid #fa5c5c;
   padding: 5px;
   -moz-transition: all 0.1s linear;
   -o-transition: all 0.1s linear;
@@ -438,7 +438,7 @@ ul.info i {
   transition: all 0.1s linear;
 }
 ul.info i:hover {
-  background: #C40200;
+  background: #fa5c5c;
   color: #fff;
 }
 
@@ -479,7 +479,7 @@ form input.error, form textarea.error {
   color: #999;
 }
 .pager a:hover {
-  color: #C40200;
+  color: #fa5c5c;
 }
 .pager .older {
   float: left;
@@ -584,7 +584,7 @@ form input.error, form textarea.error {
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  background: #C40200;
+  background: #fa5c5c;
 }
 #footer input.email-address {
   padding: 5px 15px;
@@ -622,7 +622,7 @@ body.screenshot {
 }
 .modBarGraph .bars p.highlighted {
   width: 0;
-  background: #C40200;
+  background: #fa5c5c;
   height: 12px;
 }
 
@@ -756,7 +756,7 @@ body.screenshot {
   font-family: "DroidSans";
   font-size: 20px;
   line-height: 1;
-  color: #C40200;
+  color: #fa5c5c;
   opacity: 0.75;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -864,7 +864,7 @@ body.screenshot {
   color: #333;
 }
 .modBlogPost h4 a:hover {
-  color: #C40200;
+  color: #fa5c5c;
 }
 .modBlogPost .date {
   font-size: 0.78571rem;
@@ -919,7 +919,7 @@ body.screenshot {
   color: #333;
 }
 .modBlogPost.big h3 a:hover {
-  color: #C40200;
+  color: #fa5c5c;
 }
 .modBlogPost.big h4 {
   font-size: 1.7rem;
@@ -1086,7 +1086,7 @@ body.screenshot {
   font-family: "DroidSans";
   font-size: 20px;
   line-height: 1;
-  color: #C40200;
+  color: #fa5c5c;
   opacity: 0.75;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1197,7 +1197,7 @@ body.screenshot {
 }
 .modBoxedSlider .caption p {
   display: inline-block;
-  background: #C40200;
+  background: #fa5c5c;
   color: #fff;
   font-family: "droid serif";
   margin-bottom: 0;
@@ -1222,7 +1222,7 @@ body.screenshot {
   margin-bottom: 40px;
 }
 .modBoxedTextSlider .box i {
-  color: #C40200;
+  color: #fa5c5c;
   font-size: 36px;
   width: 48px;
   height: 48px;
@@ -1366,7 +1366,7 @@ body.screenshot {
   font-family: "DroidSans";
   font-size: 20px;
   line-height: 1;
-  color: #C40200;
+  color: #fa5c5c;
   opacity: 0.75;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -2259,7 +2259,12 @@ body.screenshot {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
+
+/* Paragraph under headline in carousel  */
 .modFullscreenSlider .fullscreen_slideshow .animate-in p {
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
   opacity: 1;
   -moz-transition-delay: 1.1s;
   -o-transition-delay: 1.1s;
@@ -2341,10 +2346,10 @@ body.screenshot {
   color: #999;
 }
 .modGallery .gallery-nav li.current {
-  border: 1px solid #C40200;
+  border: 1px solid #fa5c5c;
 }
 .modGallery .gallery-nav li.current a {
-  color: #C40200;
+  color: #fa5c5c;
 }
 .modGallery ul.gallery img {
   width: 100%;
@@ -2445,7 +2450,7 @@ body.screenshot {
   margin: 0;
 }
 .modIconText .icon-text-circle:hover i {
-  color: #C40200;
+  color: #fa5c5c;
 }
 .modIconText .icon-text-simple i {
   font-size: 3.42857rem;
@@ -2478,10 +2483,10 @@ body {
   color: #999;
 }
 .modMasonryGallery .gallery-nav li.current {
-  border: 1px solid #C40200;
+  border: 1px solid #fa5c5c;
 }
 .modMasonryGallery .gallery-nav li.current a {
-  color: #C40200;
+  color: #fa5c5c;
 }
 .modMasonryGallery ul.gallery {
   margin: 0;
@@ -2568,7 +2573,7 @@ body {
 .modMilestone i {
   font-size: 36px;
   color: #fff; /* Changed icon color to white in achievements */ 
-  background: #C40200;
+  background: #fa5c5c;
   width: 90px;
   height: 90px;
   -moz-border-radius: 45px;
@@ -2659,7 +2664,7 @@ body {
 }
 
 .modPriceBox.featured .info {
-  border-top: 4px solid #C40200;
+  border-top: 4px solid #fa5c5c;
 }
 
 .modPriceBox:hover {
@@ -2674,7 +2679,7 @@ body {
   width: 66%;
   margin: 0 auto;
   height: 2px;
-  background: #C40200;
+  background: #fa5c5c;
   display: block;
 }
 
@@ -2774,7 +2779,7 @@ body {
   border: 1px solid #999;
 }
 .modStylePanel a#yellow {
-  background: #C40200;
+  background: #fa5c5c;
 }
 .modStylePanel a#red {
   background: #e92b05;
@@ -2862,7 +2867,7 @@ body {
   -moz-border-radius: 18px;
   -webkit-border-radius: 18px;
   border-radius: 18px;
-  background: #C40200;
+  background: #fa5c5c;
   color: #fff;
   text-align: center;
   font-size: 1.125rem;
@@ -3049,7 +3054,7 @@ body {
   font-family: "DroidSans";
   font-size: 20px;
   line-height: 1;
-  color: #C40200;
+  color: #fa5c5c;
   opacity: 0.75;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -3235,8 +3240,8 @@ body {
   }
 
   .contain-to-grid.alt .top-bar-section ul li > a {
-    /* color: #999; */
-    color: #C40200;
+    color: #999;
+    /* color: #fa5c5c; */
   }
   .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
     border-top-color: transparent;
@@ -3463,6 +3468,7 @@ body {
 
 /* Making nav links red and bold */
 .top-bar-section ul li > a {
-    color: #C40200;
+    /* color: #fa5c5c; */
+    color: #999;
     font-weight: bold;
 }

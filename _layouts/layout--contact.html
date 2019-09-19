@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<a id='contact'></a>
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Contact us" class="alt" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='medium-8 columns'>
+      <div class='form'>
+        <div class='row'>
+          <form id='contact_form' method='POST' action="https://formspree.io/info@rsmengr.com">
+            <div class='large-12 columns'>
+              <p id='thanks' style='display: none;'>
+                Thanks for contacting us, we'll be in touch soon!
+              </p>
+            </div>
+            <div class='medium-12 columns'>
+              <input class='required' name='name' placeholder='NAME' type='text'>
+              <input class='required email' name='email' placeholder='EMAIL' type='text'>
+              <input class='required' name='subject' placeholder='SUBJECT' type='text'>
+              <textarea class='required' name='message' placeholder='MESSAGE'></textarea>
+              <!-- <input class='button white' type='submit'> -->
+              <button type="submit">Send Message</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class='two spacing'></div>
+    </div>
+    <div class='medium-4 columns'>
+      <div class='contact-details'>
+        <h4>Our location:</h4>
+        <!-- <p><a href="https://goo.gl/maps/6Z5oAJuxPeEj8yeM8">2781 Highway 7, Suite 203, Concord, Ontario L4K 1W1</a></p> -->
+        <p><a href="https://goo.gl/maps/6Z5oAJuxPeEj8yeM8">{{ page.address }}</a></p>
+        <h4>Our Phone:</h4>
+        <p><a href="tel:+1-647-2000-500">{{ page.phone }}</a></p>
+        <h4>Our Email:</h4>
+        <p><a href="mailto:studenthelpcanada@gmail.com">{{ page.email }}</a></p>
+      </div>
+    </div>
+  </div>
+</div>

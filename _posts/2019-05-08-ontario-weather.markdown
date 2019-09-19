@@ -2,7 +2,7 @@
 title: It's not always Cold in Canada!
 date: 2019-05-08 19:03:00 Z
 categories:
-- Moving to Canada!
+- Past Projects
 tags:
 - Checklist
 - Immigration
