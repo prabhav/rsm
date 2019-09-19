@@ -1,0 +1,53 @@
+<a id='top'></a>
+<div class='contain-to-grid sticky fullwidth'>
+  <nav class='top-bar onepage' data-options='sticky_on: large' data-topbar=''>
+    <ul class='title-area'>
+      <li class='name'>
+        <h1>
+          <a href="{{site.url}}/index.html">
+            <img alt="" src="{{site.url}}/images/saw-logo-notag.png" />
+          </a>
+        </h1>
+      </li>
+      <li class='toggle-topbar menu-icon'>
+        <a href='#'>Menu</a>
+      </li>
+    </ul>
+    <section class='top-bar-section'>
+      <ul class='right'>
+
+        {% comment %}
+        {% for item in site.data.nav %}
+          {% if item.children %}
+            <li class="has-dropdown">
+              <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+              <ul class='dropdown'>
+                {% for child in item.children %}
+                  <li>
+                    <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <li>
+              {% if include.base %}
+                <a href="{{site.url}}/{{include.base}}{{ item.path }}">{{ item.name }}</a>
+              {% else %}
+                <a href="{{ item.path }}">{{ item.name }}</a>
+              {% endif %}
+
+            </li>
+          {% endif %}
+        {% endfor %}
+        {% endcomment %}
+        <li><a href="{{site.url}}#top">Home</a></li>
+        <li><a href="{{site.url}}#about">About</a></li>
+        <li><a href="{{site.url}}#services">Services</a></li>
+        <li><a href="{{site.url}}#team">Team</a></li>
+        <li><a href="{{site.url}}/blog-masonry">Blog</a></li>
+        <li><a href="{{site.url}}#contact">Contact</a></li>
+      </ul>
+    </section>
+  </nav>
+</div>
