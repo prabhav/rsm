@@ -1,7 +1,6 @@
 ---
 title: dum dum dummy
 date: 2019-05-08 18:46:00 Z
-published: true
 categories:
 - Moving to Canada!
 tags:
