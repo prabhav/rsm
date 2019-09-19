@@ -1,6 +1,6 @@
 ---
-title: Student Acclimation Worldwide
-timezone: UTC
+title: RSM Engineering Consultants
+timezone: Asia/Kolkata
 collections:
   posts:
     title: Posts
@@ -8,16 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: studenthelpcanada@gmail.com
-description: "We are a start-up that provides Post-Landing Services to students. We
-  are a team helping students settle in and help with the post landing needs. It can
-  be stressful to start a new journey in\na new country but worry not we are your
-  very own family in CANADA.\n\nWe are here to answer any question you might have
-  regarding WHERE, HOW and WHEN to get things done.\n\nWe want students to SMOOTHLY
-  transition into their new life. The aim is to provide a step by step plan for every
-  student in order for them to thrive independently without risking their educational
-  time. \nAll you need is to pack up your bags, arrive safely and the rest would be
-  taken care of by us.\n\n"
+email: 
+description: We are an engineering organization operating on national level.  Our
+  principal focus is on the practice of structural engineering, wherein we provide
+  a rational and responsible approach to engineering problems while seeking a reasonable
+  security and compensation for all within the firm. In doing so, we make every possible
+  effort to provide a service to our group.
 baseurl: 
 twitter_username: jekyllrb
 github_username: jekyll
