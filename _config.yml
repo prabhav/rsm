@@ -3,6 +3,7 @@ title: RSM Engineering Consultants
 timezone: Asia/Kolkata
 collections:
   category:
+    title: Category
     output: true
   posts:
     title: Posts

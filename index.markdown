@@ -1,10 +1,12 @@
 ---
 title: Home
-date: 2019-03-22 21:31:00 Z
+date: 2019-03-23 03:01:00 +05:30
 slides:
 - bg: https://images.unsplash.com/photo-1523662070078-0310b6680524?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
   title: RSM Engineering Consultants
-  tagline: Our principal focus is on the practice of structural engineering, wherein we provide a rational and responsible approach to engineering problems while seeking a reasonable security and compensation for all within the firm.
+  tagline: Our principal focus is on the practice of structural engineering, wherein
+    we provide a rational and responsible approach to engineering problems while seeking
+    a reasonable security and compensation for all within the firm.
   buttons:
   - text: Send Enquiry
     class: small
