@@ -39,28 +39,34 @@ slides:
   - text: NEW IMMIGRANTS
     class: boxed small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-intro: "We are an engineering organization operating on national level.  Our      principal focus is on the practice of structural engineering, wherein we provide
-  a rational and responsible approach to engineering problems while seeking a reasonable security and compensation for all within the firm. In doing so, we make every possible effort to provide a service to our group."
+intro: We are an engineering organization operating on national level.  Our      principal
+  focus is on the practice of structural engineering, wherein we provide a rational
+  and responsible approach to engineering problems while seeking a reasonable security
+  and compensation for all within the firm. In doing so, we make every possible effort
+  to provide a service to our group.
 services:
 - icon: building
-  title: 'Structure Design of Buildings'
-  description: 'We can help you with structural design of buildings of all shapes and sizes.'
+  title: Structure Design of Buildings
+  description: We can help you with structural design of buildings of all shapes and
+    sizes.
 - icon: check
   title: Proof Checking
-  description: |-
-    Proof checking of structral design of bulidings.
+  description: Proof checking of structral design of bulidings.
 - icon: wrench
   title: Retrofitting
-  description: We also provide services for Retrofitting of Damaged and Under Designed Structures using Non-Linear Pushover Analysis.
+  description: We also provide services for Retrofitting of Damaged and Under Designed
+    Structures using Non-Linear Pushover Analysis.
 - icon: cog
   title: Design of Base Isolated Buildings
-  description: We also provide servies and assistance for designing of base isloated buildings.
+  description: We also provide servies and assistance for designing of base isloated
+    buildings.
 - icon: clipboard
   title: Documentation
   description: Preparation of Tender documents and specifications
 - icon: dollar
   title: Budgeting and Estimation
-  description: We can help you estimate quantities of materials required and analyze the rate strcuture for the same.
+  description: We can help you estimate quantities of materials required and analyze
+    the rate strcuture for the same.
 interests:
 - icon: building
   title: Large Span Structures
@@ -173,7 +179,9 @@ members:
     icon: twitter
   - link: https://www.facebook.com/shradha.chopra.1
     icon: facebook
-  desc: 1981-1985 Bacherlor of Engineering (Civil) with Honours from University of Roorkee, Roorkee 1985 - 1987 Master of Technology (Structures) from Indian Institute of Technology, Kanpur, with specialization in Structural Dynamics.
+  desc: 1981-1985 Bacherlor of Engineering (Civil) with Honours from University of
+    Roorkee, Roorkee 1985 - 1987 Master of Technology (Structures) from Indian Institute
+    of Technology, Kanpur, with specialization in Structural Dynamics.
 price_boxes:
 - type: Fresh Student
   desc: Education in Canada?
