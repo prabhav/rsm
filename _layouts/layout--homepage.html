@@ -81,18 +81,18 @@ layout: default
     </div>
   </div>
   <div class='row'>
-    <div class='medium-3 large-3 columns'>
-      {% include milestone.html title="College Admissions Done" from="0" to="69" icon_class="fa fa-graduation-cap" %}
+    <div class='medium-4 large-4 columns'>
+      {% include milestone.html title="Projects Completed" from="0" to="69" icon_class="fa fa-briefcase" %}
     </div>
-    <div class='medium-3 large-3 columns'>
-      {% include milestone.html title="Students Helped" from="0" to="726" icon_class="fa fa-thumbs-up" %}
+    <div class='medium-4 large-4 columns'>
+      {% include milestone.html title="Satsfied Clients" from="0" to="726" icon_class="fa fa-thumbs-up" %}
     </div>
-    <div class='medium-3 large-3 columns'>
-      {% include milestone.html title="Jobs Provided" from="0" to="59" icon_class="fa fa-briefcase" %}
+    <div class='medium-4 large-4 columns'>
+      {% include milestone.html title="Dedicated Employees" from="0" to="59" icon_class="fa fa-user" %}
     </div>
-    <div class='medium-3 large-3 columns'>
+    <!-- <div class='medium-3 large-3 columns'>
       {% include milestone.html title="Helped Students Find Housing" from="0" to="21" icon_class="fa fa-home" %}
-    </div>
+    </div> -->
   </div>
   <div class='two spacing'></div>
 </div>
@@ -103,7 +103,7 @@ layout: default
 <div class='full' style='background: #f5f5f5' id="services--students">
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Our Services for Students" class="alt" %}
+      {% include section-header.html title="Our Services" class="alt" %}
       <div class='two spacing'></div>
     </div>
   </div>
@@ -112,11 +112,11 @@ layout: default
       <!-- <div class='mod modBoxedTextSlider'> -->
       <div class='modBoxedTextSlider'>
         <div class='boxes'>
-            {% for student in page.students %}
+            {% for service in page.services %}
             <div class='box' style=''>
-              <i class='fa fa-{{ student.icon }}'></i>
-              <h4>{{ student.title }}</h4>
-              <p>{{ student.description }}</p>
+              <i class='fa fa-{{ service.icon }}'></i>
+              <h4>{{ service.title }}</h4>
+              <p>{{ service.description }}</p>
             </div>
             {% endfor %}
 
@@ -141,7 +141,7 @@ layout: default
 <div class='full' style='background: #f5f5f5' id="services--immigrants">
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Our Services for New Immigrants" class="alt" %}
+      {% include section-header.html title="Current Areas of Interest" class="alt" %}
       <div class='two spacing'></div>
     </div>
   </div>
@@ -150,11 +150,11 @@ layout: default
       <!-- <div class='mod modBoxedTextSlider'> -->
       <div class='modBoxedTextSlider'>
         <div class='boxes'>
-            {% for immigrant in page.immigrants %}
+            {% for interest in page.interests %}
             <div class='box' style=''>
-              <i class='fa fa-{{ immigrant.icon }}'></i>
-              <h4>{{ immigrant.title }}</h4>
-              <p>{{ immigrant.description }}</p>
+              <i class='fa fa-{{ interest.icon }}'></i>
+              <h4>{{ interest.title }}</h4>
+              <p>{{ interest.description }}</p>
             </div>
             {% endfor %}
 
@@ -280,6 +280,9 @@ layout: default
       <div class='spacing'></div>
     </div>
   </div>
+
+  <!-- Client Testimonials -->
+
   <div class='row'>
     <div class='large-12 columns'>
       {% include section-header.html title="What our clients say" title_style="color: #fff;" class="alt" %}
@@ -321,6 +324,9 @@ layout: default
   </div>
   <div class='spacing'></div>
 </div> -->
+
+<!-- Team Members -->
+
 <a id='team'></a>
 <div class='full'>
   <div class='row'>
@@ -331,7 +337,7 @@ layout: default
   </div>
   <div class='row'>
     {% for member in page.members %}
-      <div class='small-6 medium-3 large-3 columns'>
+      <div class='small-6 medium-6 large-5 columns'>
         <div class='mod modTeamMember style-2'>
           <div class='member'>
             <img class="avatar" width="250" height="250" alt="" src="{{member.avatar}}" />
@@ -358,118 +364,9 @@ layout: default
   <div class='three spacing'></div>
 </div>
 <!-- <div class='full parallax' style='background-image: linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url(https://images.unsplash.com/photo-1516809391665-6e6fb6c153f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80); color: #fff;'> -->
-<div class="full">
 
+<!-- Projects -->
 
-
-    <a id='pricing'></a>
-    <!-- <div class='full'> -->
-      <div class='row'>
-        <div class='large-12 columns'>
-          {% include section-header.html class="alt" title="Your Journey Outline" %}
-          <div class='spacing'></div>
-          <p>
-            Get an estimate on how long the nitty gritty of each process takes. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-          </p>
-          <div class='spacing'></div>
-        </div>
-      </div>
-      <div class='spacing'></div>
-      <div class='row'>
-        {% for box in page.price_boxes %}
-          <div class='medium-6 large-3 columns'>
-            <div class='mod modPriceBox {{box.class}}'>
-              <div class='info'>
-                <p class='level'>{{box.type}}</p>
-                <p class='desc'>{{box.desc}}</p>
-                <p class='price'>
-                  <span class='dollar'>days</span>
-                  <span class='number'>{{box.cost}}</span>
-                </p>
-              </div>
-              <div class='features'>
-                <ul>
-                  {% for line in box.lines %}
-                    <li class="{% cycle '', 'even' %}">{{line}}</li>
-                  {% endfor %}
-                </ul>
-              </div>
-              <!-- <p class='start'>
-                <a class='button small' href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Start Trial</a>
-              </p> -->
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-      <div class='four spacing'></div>
-    <!-- </div> -->
-
-<!-- Erstwhile customers section -->
-  <!-- <div class='row'>
-    <div class='large-12 columns'>
-      {% include section-header.html class="alt" title_style="color: #fff;" title="Our customers" %}
-      <div class='spacing'></div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-      </p>
-      <div class='spacing'></div>
-    </div>
-  </div>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <div class='mod modClients' data-slides_to_show='4'>
-        <div class='clients'>
-          {% for client in page.clients %}
-            <div><img width="272" height="180" alt="" src="{{client}}" /></div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div> -->
-  <!-- <div class='two spacing'></div> -->
-</div>
-<!-- <a id='pricing'></a> -->
-
-<!-- <div class='full'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      {% include section-header.html class="alt" title="Pricing table" %}
-      <div class='spacing'></div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-      </p>
-      <div class='spacing'></div>
-    </div>
-  </div>
-  <div class='spacing'></div>
-  <div class='row'>
-    {% for box in page.price_boxes %}
-      <div class='medium-6 large-3 columns'>
-        <div class='mod modPriceBox {{box.class}}'>
-          <div class='info'>
-            <p class='level'>{{box.type}}</p>
-            <p class='desc'>{{box.desc}}</p>
-            <p class='price'>
-              <span class='dollar'>$</span>
-              <span class='number'>{{box.cost}}</span>
-            </p>
-          </div>
-          <div class='features'>
-            <ul>
-              {% for line in box.lines %}
-                <li class="{% cycle '', 'even' %}">{{line}}</li>
-              {% endfor %}
-            </ul>
-          </div>
-          <p class='start'>
-            <a class='button small' href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Start Trial</a>
-          </p>
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-  <div class='four spacing'></div>
-</div> -->
 <div class='full parallax' style='background-image: linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url(https://images.unsplash.com/photo-1516809391665-6e6fb6c153f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80);'>
   <div class='row'>
     <div class='large-12 columns'>

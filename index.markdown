@@ -10,7 +10,7 @@ slides:
   buttons:
   - text: Send Enquiry
     class: small
-    url: "#services--students"
+    url: "/contact/"
   - text: Know More
     class: small boxed
     url: "#services--immigrants"
@@ -20,7 +20,7 @@ slides:
   buttons:
   - text: STUDENTS
     class: small
-    url: "#services--students"
+    url: "/contact/"
   - text: NEW IMMIGRANTS
     class: small boxed
     url: "#services--immigrants"
@@ -39,82 +39,49 @@ slides:
   - text: NEW IMMIGRANTS
     class: boxed small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-intro: "We are a start-up that provides Post-Landing Services to students. We are
-  a team helping students settle in and help with the post landing needs. It can be
-  stressful to start a new journey in\na new country but worry not we are your very
-  own family in CANADA.\n\nWe are here to answer any question you might have regarding
-  WHERE, HOW and WHEN to get things done.\n\nWe want students to SMOOTHLY transition
-  into their new life. The aim is to provide a step by step plan for every student
-  in order for them to thrive independently without risking their educational time.
-  \nAll you need is to pack up your bags, arrive safely and the rest would be taken
-  care of by us.\n\n"
-students:
-- icon: bus
-  title: 'Admissions '
-  description: 'We can help you with your admissions process at no additional cost. '
-- icon: bus
-  title: Airport Pickup
+intro: "We are an engineering organization operating on national level.  Our      principal focus is on the practice of structural engineering, wherein we provide
+  a rational and responsible approach to engineering problems while seeking a reasonable security and compensation for all within the firm. In doing so, we make every possible effort to provide a service to our group."
+services:
+- icon: building
+  title: 'Structure Design of Buildings'
+  description: 'We can help you with structural design of buildings of all shapes and sizes.'
+- icon: check
+  title: Proof Checking
   description: |-
-    Don't have family in Canada? Don't worry #wegotyou
-    One of our agents would be there to pick you up and take you to your desired location.
-- icon: home
-  title: Temporary Accommodation
-  description: We provide approx. two weeks of temporary accommodation,this gives
-    you time to find a permanent place to live of your choice.
-- icon: bicycle
-  title: VIP Metro Pass
-  description: We provide TTC (Toronto Transit Commission) monthly passes with discount.One
-    of our agents would also take you around the city and explain you how the public
-    transport work.
-- icon: phone
-  title: Cellular Plans
-  description: Working on a budget? Don't worry we can get a customize student cellular
-    plan that would be useful and budget friendly.
-- icon: briefcase
-  title: Find a Job
-  description: We help our students land that first job.
-- icon: car
-  title: Driver's License
-  description: We provide course material and practical guidance needed to pass the
-    written and practical driving exam.
-- icon: money
-  title: Travel and Health Insurance
-  description: We offer you special prices for travel and health insurance plans which
-    will assure medical care throughout Canada.
-- icon: spoon
-  title: Daily Tiffin Service
-  description: "Missing home cooked food? \nWe provide daily tiffin service at a very
-    reasonable cost that would cost you even cheaper than your monthly grocery."
-- icon: money
-  title: Opening a Bank Account
-  description: Our agents can help you open a bank account and get things jump started
-    for you.
-- icon: phone
-  title: Seminars and Events
-  description: We organize event and seminars to support our students in Canada.
-- icon: cab
-  title: Immigration Consultancy
-  description: We provide personalized consultancy services with our experienced and
-    licensed immigration consultants.
-immigrants:
-- icon: car
-  title: Vehicle Purchase
-  description: Advice and Resources
-- icon: bus
-  title: Airport Pickup
-  description: utha hi lenge beta
-- icon: bus
-  title: Airport Pickup
-  description: utha hi lenge beta
-- icon: home
-  title: Temporary Accommodation
-  description: Place to stay while you find your own
-- icon: bicycle
-  title: Public Transport Guide
-  description: Getting around made easy
-- icon: phone
-  title: Getting a SIN Card.
-  description: 'You need a valid SIN Card in order to be eligible to work in Canada. '
+    Proof checking of structral design of bulidings.
+- icon: wrench
+  title: Retrofitting
+  description: We also provide services for Retrofitting of Damaged and Under Designed Structures using Non-Linear Pushover Analysis.
+- icon: cog
+  title: Design of Base Isolated Buildings
+  description: We also provide servies and assistance for designing of base isloated buildings.
+- icon: clipboard
+  title: Documentation
+  description: Preparation of Tender documents and specifications
+- icon: dollar
+  title: Budgeting and Estimation
+  description: We can help you estimate quantities of materials required and analyze the rate strcuture for the same.
+interests:
+- icon: building
+  title: Large Span Structures
+- icon: spinner
+  title: Dynamic Behaviour of Irregular Buildings
+- icon: signal
+  title: Energy Dissipation and Base Isolation for Seismic Protection of Structures
+- icon: sort
+  title: Industrial Buildings and Foundations subjected to dynamic loads
+- icon: laptop
+  title: Computer Aided Analysis and Design
+- icon: chevron-up
+  title: High Rise Buildings
+- icon: bullseye
+  title: Three Dimensional Space Structures
+- icon: exchange
+  title: Bridges and Flyovers
+- icon: laptop
+  title: Computer Graphics
+- icon: line-chart
+  title: Prestressed and Precast Structures
 works:
 - image: "../images/@stock/one-page-work-1.jpg"
   title: Beautiful Girl
@@ -185,67 +152,10 @@ testimonials:
     I had no idea. Someone suggested my SAW and that was the end of it. They provided
     me with a whole package and helped me with absolutely anything and everything.    '
   author: "- Shrey Mehta, Business Marketing Management, Conestoga College 2018"
-- quote: My journey to and in Canada wouldn't have been possible without SAW help.
-    I wouldn't have it any other way.
-  author: "- Sameer Sachdeva, Business Accounting, Humber College 2018"
-- quote: I was so confused what program to pick and what to do. I was wrongly advised
-    from people I was in contact with until I met a SAW representative. They helped
-    my journey more convenient and smooth.
-  author: "- Shiven Sareen, International Business Management, George  Brown College
-    2018"
-- quote: Best advisor! Can't believe someone would go the extra mile to help someone
-    like they did. Guess that's how Canadians are!
-  author: Malaika Munjal, Business Economics Honours, University of Calgary 2018
-- quote: From picking me from the airport to helping me find accomodation and a job
-    they helped with that comes with settling in an unknown and new country. I couldn't
-    be more satisfied.
-  author: "- Yatin Syal, Massage Therapy, Humber College 2015"
-- quote: I was more than confused about what I should do and how things will go in
-    a new country. I am more than happy to have this family in Canada. They are my
-    Home Away from Home!
-  author: "- Vishal Malhotra, Hospitality Management, Humber College 2016"
-- quote: 
-  author: "- Mandeep Singh, Web Design, CDI College 2017"
-- quote: 
-  author: "- Gurinder Singh, Web Design , CDI College 2018"
-- quote: 
-  author: "- Manvi Aghi, UX Design, Humber College 2018"
-- quote: 
-  author: "-Manpreet Singh, Business Accounting, Humber College 2015"
-- quote: 
-  author: "-Heena Dhingra, Business Management, Humber College 2015"
-- quote: 
-  author: "- Sahil Kundal, Project Management, Lambton College 2016"
-- quote: 
-  author: "-Rajvir Singh, Supply Chain Management, Lambton College 2017"
-- quote: 
-  author: 
 members:
-- avatar: images/@stock/member-1.jpg
-  name: Shradha Chopra
-  position: Co-founder
-  socials:
-  - link: https://twitter.com/StudentAcclima1?lang=en
-    icon: twitter
-  - link: https://www.facebook.com/shradha.chopra.1
-    icon: facebook
-  desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/@stock/member-2.jpg
-  name: Manish Chopra
-  position: Co-founder/Manager
-  socials:
-  - link: https://twitter.com/StudentAcclima1?lang=en
-    icon: twitter
-  - link: http://facebook.com
-    icon: facebook
-  - link: http://dribbble.com
-    icon: dribbble
-  desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
 - avatar: images/@stock/member-3.jpg
-  name: Geetanjali Chopra
-  position: Manager
+  name: Hemant Chopra
+  position: Co-Founder and Partner
   socials:
   - link: https://twitter.com/StudentAcclima1?lang=en
     icon: twitter
@@ -255,6 +165,15 @@ members:
     icon: tumblr
   desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
     nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: images/@stock/member-1.jpg
+  name: Rajiv Sharma
+  position: Partner
+  socials:
+  - link: https://twitter.com/StudentAcclima1?lang=en
+    icon: twitter
+  - link: https://www.facebook.com/shradha.chopra.1
+    icon: facebook
+  desc: 1981-1985 Bacherlor of Engineering (Civil) with Honours from University of Roorkee, Roorkee 1985 - 1987 Master of Technology (Structures) from Indian Institute of Technology, Kanpur, with specialization in Structural Dynamics.
 price_boxes:
 - type: Fresh Student
   desc: Education in Canada?
