@@ -10,7 +10,7 @@ slides:
   buttons:
   - text: Send Enquiry
     class: small
-    url: "/contact/"
+    url: "/contact"
   - text: Know More
     class: small boxed
     url: "#services--immigrants"
