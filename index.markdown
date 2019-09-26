@@ -111,7 +111,7 @@ testimonials:
     me with a whole package and helped me with absolutely anything and everything.    '
   author: "- Shrey Mehta, Business Marketing Management, Conestoga College 2018"
 members:
-- image: images/@stock/member-3.jpg
+- image: "/uploads/y%20tho.png"
   name: Hemant Chopra
   position: Co-Founder and Partner
   socials:
