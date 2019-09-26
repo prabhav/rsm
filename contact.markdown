@@ -1,8 +1,9 @@
 ---
-layout: layout--contact
-phone: "+91-9999999999"
-email: somerandommail@gail.com
-address: something something something
+title: Contact Us
+phone: "+91-981111342"
+email: info@rsmengr.com
+address: Greater Kailash 2
 address_link: "#"
+layout: layout--contact
 ---
 
