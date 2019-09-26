@@ -2,13 +2,11 @@
 title: dum dum dummy
 date: 2019-05-09 00:16:00 +05:30
 categories:
-- Future Projects
+- High Rise
 tags:
-- Checklist
-- Immigration
-- Student
-- Post-landing Services
-author: Shradha Chopra
+- Construction
+- Building Material
+author: Lakshay Kumar
 image: "/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg"
 Field name: 
 layout: post
@@ -47,4 +45,4 @@ This will help you:
 
 ![unnamed.jpg](/uploads/unnamed.jpg)
 
-
+![IMG-20190810-WA0112.jpg](/uploads/IMG-20190810-WA0112.jpg)
