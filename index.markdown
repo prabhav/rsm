@@ -81,47 +81,6 @@ interests:
   title: Computer Graphics
 - icon: line-chart
   title: Prestressed and Precast Structures
-works:
-- image: "../images/@stock/one-page-work-1.jpg"
-  title: Beautiful Girl
-  link_to: portfolio-item.html
-  class: graphic-design
-  desc: Design &amp; Development
-- image: "../images/@stock/one-page-work-2.jpg"
-  title: Look at me
-  link_to: portfolio-item.html
-  class: web-design print
-  desc: Design &amp; Development
-- image: "../images/@stock/one-page-work-3.jpg"
-  title: Am I cute
-  link_to: portfolio-item.html
-  class: brand
-  desc: Design &amp; Development
-- image: "../images/@stock/one-page-work-4.jpg"
-  title: Umbrella
-  link_to: portfolio-item.html
-  class: development
-  desc: Design &amp; Development
-- image: "../images/@stock/one-page-work-5.jpg"
-  title: Canned Bros
-  link_to: portfolio-item.html
-  class: print brand
-  desc: Design &amp; Development
-- image: "../images/@stock/one-page-work-6.jpg"
-  title: Hale
-  link_to: portfolio-item.html
-  class: web-design
-  desc: Design &amp; Development
-- image: "../images/@stock/one-page-work-7.jpg"
-  title: A beautiful day
-  link_to: portfolio-item.html
-  class: web-design
-  desc: Design &amp; Development
-- image: "/uploads/9163-invest-in-toronto-995x330.png"
-  title: Flower Book
-  link_to: portfolio-item.html
-  class: graphic-design
-  desc: Design &amp; Development
 testimonials:
 - quote: 'I would, with all honestly and faith recommend SAW. I am so ever grateful
     to be connected with the organisation. It can be scary to move from your home
@@ -152,7 +111,7 @@ testimonials:
     me with a whole package and helped me with absolutely anything and everything.    '
   author: "- Shrey Mehta, Business Marketing Management, Conestoga College 2018"
 members:
-- avatar: images/@stock/member-3.jpg
+- image: images/@stock/member-3.jpg
   name: Hemant Chopra
   position: Co-Founder and Partner
   socials:
@@ -164,7 +123,7 @@ members:
     icon: tumblr
   desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
     nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/@stock/member-1.jpg
+- image: images/@stock/member-1.jpg
   name: Rajiv Sharma
   position: Partner
   socials:
