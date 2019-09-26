@@ -17,13 +17,6 @@ slides:
 - bg: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/12/out-short.jpg
   title: creative &amp; powerful
   tagline: It it very happy thing to make great website
-  buttons:
-  - text: STUDENTS
-    class: small
-    url: "/contact/"
-  - text: NEW IMMIGRANTS
-    class: small boxed
-    url: "#services--immigrants"
   videos:
   - type: webm
     url: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/11/out-short.webm
