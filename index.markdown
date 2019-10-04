@@ -2,7 +2,7 @@
 title: Home
 date: 2019-03-23 03:01:00 +05:30
 slides:
-- bg: https://drive.google.com/file/d/1SRyn6VUK68FdtLyQVRe5RcmpH4Hbi9fo/view?usp=sharing
+- image: https://drive.google.com/file/d/1SRyn6VUK68FdtLyQVRe5RcmpH4Hbi9fo/view?usp=sharing
   title: RSM Engineering Consultants
   tagline: Our principal focus is on the practice of structural engineering, wherein
     we provide a rational and responsible approach to engineering problems while seeking
@@ -14,7 +14,7 @@ slides:
   - text: Know More
     class: small boxed
     url: "#services--immigrants"
-- bg: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/12/out-short.jpg
+- image: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/12/out-short.jpg
   title: creative &amp; powerful
   tagline: It it very happy thing to make great website
   videos:
@@ -22,7 +22,7 @@ slides:
     url: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/11/out-short.webm
   - type: mp4
     url: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/11/out-short.mp4
-- bg: "../images/@stock/fullscreen-slide-3.jpg"
+- image: "../images/@stock/fullscreen-slide-3.jpg"
   title: Always have a dream
   tagline: It is very quick to build a website with this theme
   buttons:
