@@ -17,11 +17,6 @@ slides:
 - image: "/uploads/Venkateshwar%20Hospital%201.jpg"
   title: creative &amp; powerful
   tagline: It it very happy thing to make great website
-  videos:
-  - type: webm
-    url: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/11/out-short.webm
-  - type: mp4
-    url: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/11/out-short.mp4
 - image: "/uploads/Panipat%20School%202.JPG"
   title: Always have a dream
   tagline: It is very quick to build a website with this theme
