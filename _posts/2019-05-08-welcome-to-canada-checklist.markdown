@@ -2,44 +2,15 @@
 title: Proposed Hotel Management Institute for THE LALIT
 date: 2019-05-09 00:16:00 +05:30
 categories:
-- Past Projects
-tags:
-- Checklist
-- Immigration
-- Student
-- Post-landing Services
-author: Shradha Chopra
-image: "/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg"
+- Upcoming Projects
+author: 
+image: "/uploads/Hotel%20Manegement%20at%20Faridabad-1.jpg"
 Field name: 
 layout: post
 ---
 
-If you have chosen to move to Canada and are planning your arrival soon as a student or new immigrant, this checklist might help you get through what and how you need to proceed once you are here.
+## Client: M/S Morphogensis  
 
-* Find a place to live
-* Apply for a Social Insurance Number (SIN)
-* Find an Employment Resource Centre(ERC) close to your home
-* Apply for a Health Card (OHIP)
-* Find a public library close to your home
-* Apply for the Canada Child Tax Benefit (CCTB)
-* Learn about your rights as an employee
-* Open a bank account
-* Learn about your rights as a tenant
-* Apply for a driver’s licence or Photo ID card
-* Find out how to register your children in school
-* Get information about finding a job
-* Get maps of streets and bus routes
-* Find a settlement agency close to your home
-* Find English classes for you and your family
-* Find a Community Health Centre
-
-You have a lot to do when you first arrive. You need to spend part of your time learning about your new city.
-Before you arrive, get tourist information about the city where you plan to live. When you arrive, spend a few days looking around the city in a car or using public transit.
-
-This will help you:
-* Find schools, hospitals, banks, stores, community centres and parks.
-* Find the best way to travel around the area.
-* Learn what activities and services are available.
-* See local attractions and landmarks!
-
- ![original_d83d80dd777eee46441458dff0f7adfe.jpg](/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg)
+Proposed Project is having two main blocks Academic and Hostel block.
+Academic block is a long rectangular RCC block having Basement+Ground+3 floors above. Three expansion joints have been proposed to break the long block into four small blocks as per the IS codes. Room size is approximately 8.5mx9.5m having coffer slab. One block of the academic block is having auditorium also. Roof of the auditorium has been proposed as steel truss roof as span is approximately 22.0m.
+ Hostel Block is also a RCC frame structure having large column free area on ground Floor to accommodate an open air theater, cafeteria and bank building. Upper three floors are having hostel room. RCC transfer girder of 15m span has been proposed to raise the columns for Hostel block. Stage construction analysis has been proposed in ETABS to design this building. Building is being analyzed on ETABS  and ductile detailing as per IS 13920 will be done. Approximate area of the building is 2,40,000 sqft. 
