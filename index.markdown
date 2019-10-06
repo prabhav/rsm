@@ -2,7 +2,7 @@
 title: Home
 date: 2019-03-23 03:01:00 +05:30
 slides:
-- image: "/uploads/Dr.%20Oetkar%201.jpg"
+- image: "/uploads/Dr.%20Oetkar%201-937801.jpg"
   title: RSM Engineering Consultants
   tagline: Our principal focus is on the practice of structural engineering, wherein
     we provide a rational and responsible approach to engineering problems while seeking
@@ -14,24 +14,19 @@ slides:
   - text: Know More
     class: small boxed
     url: "#services--immigrants"
-- image: "/uploads/Venkateshwar%20Hospital%201.jpg"
+- image: "/uploads/Venkateshwar%20Hospital%201-3e4dae.jpg"
   title: creative &amp; powerful
-  tagline: It it very happy thing to make great website
-- image: "/uploads/Panipat%20School%202.JPG"
-  title: Always have a dream
-  tagline: It is very quick to build a website with this theme
-  buttons:
-  - text: STUDENTS
-    class: small
-    url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: NEW IMMIGRANTS
-    class: boxed small
-    url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-intro: We are an engineering organization operating on national level.  Our      principal
-  focus is on the practice of structural engineering, wherein we provide a rational
-  and responsible approach to engineering problems while seeking a reasonable security
-  and compensation for all within the firm. In doing so, we make every possible effort
-  to provide a service to our group.
+  tagline: 'We make every possible effort to provide a service to our clients of high
+    quality, while providing for the professional growth and satisfaction of our group. '
+- image: "/uploads/Panipat%20School%202-73b396.JPG"
+  title: 
+  tagline: 
+intro: We are an engineering organisation operating on national level.  Currently
+  we are using finite element software SAP2000-Non Linear, ETABS Non-Linear and SAFE
+  developed by Computers and Structures Inc. Berkeley, U.S.A. for analysis and design
+  of all types of structures. Besides these we also have the capability of developing
+  small and medium size computer programs for data manipulation, programming of plotters,
+  printers for specific requirements of a project.
 services:
 - icon: building
   title: Structure Design of Buildings
@@ -53,8 +48,8 @@ services:
   description: Preparation of Tender documents and specifications
 - icon: dollar
   title: Budgeting and Estimation
-  description: We can help you estimate quantities of materials required and analyze
-    the rate strcuture for the same.
+  description: We can help you estimate quantities of materials required and analyse
+    the rate of the structure for the same.
 interests:
 - icon: building
   title: Large Span Structures
@@ -68,7 +63,7 @@ interests:
   title: Computer Aided Analysis and Design
 - icon: chevron-up
   title: High Rise Buildings
-- icon: bullseye
+- icon: fa-cube
   title: Three Dimensional Space Structures
 - icon: exchange
   title: Bridges and Flyovers
@@ -77,58 +72,35 @@ interests:
 - icon: line-chart
   title: Prestressed and Precast Structures
 testimonials:
-- quote: 'I would, with all honestly and faith recommend SAW. I am so ever grateful
-    to be connected with the organisation. It can be scary to move from your home
-    country alone, but SAW has been with me throughout. As a matter of fact, they
-    still guide me, have faith in me, and are like a family to me! I trust them fully,
-    and recommend any student who is planning to come here, to get in contact with
-    them! '
-  author: "- Astha Chawla, Media Communication, Humber College 2018"
-- quote: I am glad to be a part of such a great organisation. They helped me a lot
-    during my initial days here in Canada and have continued to be like a family ever
-    since. I know transitioning from your life back home to a new one can be difficult
-    but SAW makes it much easier and helps you get settled in pretty quickly. They
-    truly are your own family away from home and you can definitely count on them
-    at every step of your journey.
-  author: "- Shivangi Paul, Web Designing, CDI College 2019"
-- quote: "Coming to a new country is more difficult than it sounds. Doing everything
-    on your own, figuring out what is wrong and right. It gets overwhelming. I found
-    SAW by randomly browsing through Facebook and I cannot thank them enough for everything
-    they have done. From picking me up from the airport to helping me find housing
-    which fits my budget and choice. \nIt is commendable to see how people in this
-    country are helping each other grow."
-  author: "- Shradha Chopra, Business Accounting, Humber College 2015"
-- quote: 'When I decided Canada was the country I want to go to for my further education
-    and started my research. I talked to hundreds of people,went to numerous student
-    advisor but all of them provided limited services, limited to the extent of admission.
-    I had no idea what will happen once I am there, what if I need someone , any help
-    I had no idea. Someone suggested my SAW and that was the end of it. They provided
-    me with a whole package and helped me with absolutely anything and everything.    '
-  author: "- Shrey Mehta, Business Marketing Management, Conestoga College 2018"
+- quote: Working with RSM for last 20 years gives us the opportunity to work with
+    A Top Notch Design firm which travels the extra distance to give a creative strength
+    to all the projects we undertake. They always come up with the best results through
+    a practical and methodological approach.
+  author: "- Amit Khullar, ENAR CONSULTANTS"
+- quote: 'Working with RSM for last 20 years has given us the opportunity to work
+    with A Top Notch Design firm who travel the extra distance to give a creative
+    strength to all the projects we undertake. '
+  author: "- Amit Khullar, ENAR CONSULTANTS"
 members:
 - image: "/uploads/y%20tho.png"
-  name: Hemant Chopra
-  position: Co-Founder and Partner
-  socials:
-  - link: https://twitter.com/StudentAcclima1?lang=en
-    icon: twitter
-  - link: http://facebook.com
-    icon: facebook
-  - link: http://tumblr.com
-    icon: tumblr
-  desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- image: images/@stock/member-1.jpg
   name: Rajiv Sharma
+  position: Co-Founder and Partner
+  desc: Structural Engineering is one of the most fascinating profession on our planet.
+    It is a unique combination of art and science both. The main objective is to strike
+    a balance between the two, but how we can achieve that? A very slim as well as
+    a very bulky structure, both give us a mental discomfort. When it is too slim
+    we have an uneasy feeling regarding its safety and when it is too bulky we get
+    a jarring feeling. So the true magic of a structure lies in its proportioning.But
+    how one can find the right way through the convoluted path of art and science?
+    A small anecdote will perhaps give you the clue.
+- image: images/@stock/member-1.jpg
+  name: Hemant Kumar
   position: Partner
-  socials:
-  - link: https://twitter.com/StudentAcclima1?lang=en
-    icon: twitter
-  - link: https://www.facebook.com/shradha.chopra.1
-    icon: facebook
-  desc: 1981-1985 Bacherlor of Engineering (Civil) with Honours from University of
-    Roorkee, Roorkee 1985 - 1987 Master of Technology (Structures) from Indian Institute
-    of Technology, Kanpur, with specialization in Structural Dynamics.
+  desc: In today's world structures are becoming increasingly complex . and the structural
+    design process is highly dynamic. We have always believed in perfection. With
+    the help of some advanced softwares like ETABS and SAFE, we have build some really
+    complex structures including some projects on base isolation buildings and precast
+    prestress structures.
 price_boxes:
 - type: Fresh Student
   desc: Education in Canada?
