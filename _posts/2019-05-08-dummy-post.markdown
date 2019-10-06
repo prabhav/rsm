@@ -1,48 +1,21 @@
 ---
-title: DUM DIGA DIGA MAUSAM BHIGA BHIGA
+title: School at Raipur
 date: 2019-05-09 00:16:00 +05:30
 categories:
-- High Rise
+- Upcoming Projects
 tags:
 - Construction
 - Building Material
-author: Lakshay Kumar
-image: "/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg"
+author: 
+image: "/uploads/1.jpg"
 Field name: 
 layout: post
 ---
 
-If you have chosen to move to Canada and are planning your arrival soon as a student or new immigrant, this checklist might help you get through what and how you need to proceed once you are here.
+## Client: ENAR Consultants 
 
-• Find a place to live
-• Apply for a Social Insurance Number (SIN)
-• Find an Employment Resource Centre(ERC) close to your home
-• Apply for a Health Card (OHIP)
+This school building coming in Raipur is having Ground+3 floors above. The building plan is very unique having two oval shaped blocks at 60 degree angle overlapped each other. The length of the oval is 65 meter. Since two blocks are overlapping each other , expansion joint was not feasible. The Building has been analysed and designed in ETABS. The structure has been analysed and designed for thermal stresses also. Moment resistant RCC framed structure has been provided to take care of all the vertical and lateral loads. Raipur is in Zone-II as per IS:1893, so we are designing the building as non ductile structure and detailing has been done as per IS 456.
+Total area of the building is about 1,60,000 sqft.
 
-• Find a public library close to your home
-• Apply for the Canada Child Tax Benefit (CCTB)
-• Learn about your rights as an employee
-• Open a bank account
-• Learn about your rights as a tenant
-• Apply for a driver’s licence or Photo ID card
-• Find out how to register your children in school
-• Get information about finding a job
-• Get maps of streets and bus routes
-• Find a settlement agency close to your home
-• Find English classes for you and your family
-• Find a Community Health Centre
-
-You have a lot to do when you first arrive. You need to spend part of your time learning about your new city.
-Before you arrive, get tourist information about the city where you plan to live. When you arrive, spend a few days looking around the city in a car or using public transit.
-
-This will help you:
-• Find schools, hospitals, banks, stores, community centres and parks.
-• Find the best way to travel around the area.
-• Learn what activities and services are available.
-• See local attractions and landmarks.![original_d83d80dd777eee46441458dff0f7adfe.jpg](/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg)
-
-![original_d83d80dd777eee46441458dff0f7adfe.jpg](/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg)
-
-![unnamed.jpg](/uploads/unnamed.jpg)
-
-![IMG-20190810-WA0112.jpg](/uploads/IMG-20190810-WA0112.jpg)
+![2.jpg](/uploads/2.jpg)
+![3.jpg](/uploads/3.jpg)
