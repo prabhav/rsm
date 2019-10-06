@@ -3,9 +3,6 @@ title: School at Raipur
 date: 2019-05-09 00:16:00 +05:30
 categories:
 - Upcoming Projects
-tags:
-- Construction
-- Building Material
 author: 
 image: "/uploads/1.jpg"
 Field name: 
