@@ -6,14 +6,14 @@ categories:
 image: "/uploads/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
 ---
 
-### 1. Proposed Morning and Evening college in Dyal Singh Campus, Delhi University: 
+ 1. Proposed Morning and Evening college in Dyal Singh Campus, Delhi University: 
 Both Morning and evening colleges are Moment Resistant RCC framed structure with few sghear walls.
 Soil where evening college is coming is very bad. It is a filled up soil upto 7meter depth so pile foundation has been recommended. The proposed structure is G+9 but going to be built G+4 in phase one.
 Soil where morning college is coming is good at 3 meter below NGL so one basement is going to be constructed for parking. The proposed structure is G+9 but going to be built G+4 in phase one.
 All the building will be analyzed on ETABS  and ductile detailing as per IS 13920 will be done as Delhi is in Zone 4 . Approximate area of the building is 1,40,000 sqft in phase one.
 Architect : M/S   ENAR Consultants
 
-###  2.G.D. Goenka School at Greater Noida
+  2.G.D. Goenka School at Greater Noida
 This school building coming in greater Noida is having Ground+3 floors above. Classroom size is 6.8mx7.2m without any intermediate beam. There is one auditorium with large column free area of 17.5mx22.5 m has been provided at ground floor level. Above it there are three floors of Class rooms. Arch type structure has been proposed to raise the columns from First floor level for class rooms. Moment resistant RCC framed structure has been proposed. Since Noida is in Zone-IV as per IS:1893, ductile detailing will be done as per Is:13920.Total area of the building is about 1,00,000 sqft.
 Architect: M/S Aachal Kataria Architects
 
@@ -51,7 +51,7 @@ Architect: M/S Lall and Associates New Delhi
 11. Kendriya Vidyalaya at Adampur Punjab:
 Architect: M/S Design Horizons New Delhi 
 
-## 12. Proposed Extension in different Colleges of Delhi University:
+12. Proposed Extension in different Colleges of Delhi University:
 In Delhi University major extension work is going on to increase the number of seats . Add. & Alt in the existing building and new blocks in the existing  college campus are proposed.
 (a)Morning and Evening College Building in Dyanand  College
 (b)New Building in SPM College
