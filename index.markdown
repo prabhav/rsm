@@ -158,6 +158,11 @@ socials:
   icon_class: fa fa-envelope
   link_to: mailto:info@rsmengr.com
   Key: 
+- title: Facebook
+  text: Connect us on facebook
+  icon_class: " fa-facebook-official "
+  link_to: https://www.facebook.com/lakshay.kumar.7
+  Key: 
 Field name: 
 layout: layout--homepage
 ---
