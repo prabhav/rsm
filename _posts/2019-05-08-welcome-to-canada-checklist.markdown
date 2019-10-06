@@ -1,5 +1,5 @@
 ---
-title: new project 1
+title: Proposed Hotel Management Institute for THE LALIT
 date: 2019-05-09 00:16:00 +05:30
 categories:
 - Past Projects
