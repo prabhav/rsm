@@ -82,7 +82,7 @@ testimonials:
     strength to all the projects we undertake. '
   author: "- Amit Khullar, ENAR CONSULTANTS"
 members:
-- image: "/uploads/y%20tho.png"
+- image: "/uploads/00100dPORTRAIT_00100_BURST20180717110601023_COVER.jpg"
   name: Rajiv Sharma
   position: Co-Founder and Partner
   desc: Structural Engineering is one of the most fascinating profession on our planet.
