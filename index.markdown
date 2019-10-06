@@ -77,12 +77,13 @@ testimonials:
     to all the projects we undertake. They always come up with the best results through
     a practical and methodological approach.
   author: "- Amit Khullar, ENAR CONSULTANTS"
-- quote: 'Working with RSM for last 20 years has given us the opportunity to work
-    with A Top Notch Design firm who travel the extra distance to give a creative
-    strength to all the projects we undertake. '
-  author: "- Amit Khullar, ENAR CONSULTANTS"
+- quote: |-
+    We have had the good fortune to collaborate with RSM Engineering consultants for the last 20 years. They have played a massive part in bringing to reality all our designs in this period, including the Industrial project for Dr.Oetker India. Made completely in Precast pretentioned concrete, it is a testimony to the creativity and dexterity of M/s RSM Engineering consultants.
+    Efficient analysis of structural models on software such as e-tabs ensures that each design is reliable and economical. Timely delivery is another highlight of RSMs workflow and we have always found them to be accomodating to changes and modifications.
+    Today they are sifting to a new ultramodern workplace and we at Enar consultants wish them all the success that they richly deserve.
+  author: "-Dipankar Mazumdar, ENAR CONSULTANTS"
 members:
-- image: "/uploads/00100dPORTRAIT_00100_BURST20180717110601023_COVER.jpg"
+- image: "/uploads/WhatsApp%20Image%202019-10-06%20at%2011.45.30%20PM.jpeg"
   name: Rajiv Sharma
   position: Co-Founder and Partner
   desc: Structural Engineering is one of the most fascinating profession on our planet.
@@ -93,7 +94,7 @@ members:
     a jarring feeling. So the true magic of a structure lies in its proportioning.But
     how one can find the right way through the convoluted path of art and science?
     A small anecdote will perhaps give you the clue.
-- image: images/@stock/member-1.jpg
+- image: "/uploads/00100dPORTRAIT_00100_BURST20180713163109810_COVER-adf5e7.jpg"
   name: Hemant Kumar
   position: Partner
   desc: In today's world structures are becoming increasingly complex . and the structural
