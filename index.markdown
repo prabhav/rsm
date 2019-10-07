@@ -160,7 +160,7 @@ socials:
   Key: 
 - title: Facebook
   text: Connect us on facebook
-  icon_class: "&#xf230;"
+  icon_class: "[&#xf230;]"
   link_to: https://www.facebook.com/lakshay.kumar.7
   Key: 
 Field name: 
