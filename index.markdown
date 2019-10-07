@@ -85,7 +85,7 @@ testimonials:
 members:
 - image: "/uploads/WhatsApp%20Image%202019-10-06%20at%2011.45.30%20PM.jpeg"
   name: Rajiv Sharma
-  position: Co-Founder and Partner
+  position: Founder and Partner
   desc: Structural Engineering is one of the most fascinating profession on our planet.
     It is a unique combination of art and science both. The main objective is to strike
     a balance between the two, but how we can achieve that? A very slim as well as
