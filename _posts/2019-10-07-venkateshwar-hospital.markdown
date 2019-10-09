@@ -6,8 +6,8 @@ categories:
 image: "/uploads/Venkateshwar%20Hospital%201.jpg"
 ---
 
-## Client: ENAR Consultants 
-## Location: DWARKA SEC-18, NEW DELHI
-## 4,30,000 SQ.FT
+ **Client:** ENAR Consultants 
+ **Location:** DWARKA SEC-18, NEW DELHI
+ **Area:** 4,30,000 SQ.FT
 
 ![Venkateshwar Hospital 2.jpg](/uploads/Venkateshwar%20Hospital%202.jpg)
