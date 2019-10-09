@@ -78,9 +78,8 @@ testimonials:
     a practical and methodological approach.
   author: "- Amit Khullar, ENAR CONSULTANTS"
 - quote: |-
-    We have had the good fortune to collaborate with RSM Engineering consultants for the last 20 years. They have played a massive part in bringing to reality all our designs in this period, including the Industrial project for Dr.Oetker India. Made completely in Precast pretentioned concrete, it is a testimony to the creativity and dexterity of M/s RSM Engineering consultants.
-    Efficient analysis of structural models on software such as e-tabs ensures that each design is reliable and economical. Timely delivery is another highlight of RSMs workflow and we have always found them to be accomodating to changes and modifications.
-    Today they are sifting to a new ultramodern workplace and we at Enar consultants wish them all the success that they richly deserve.
+    We have had the good fortune to collaborate with RSM Engineering consultants for the last 20 years. They have played a massive part in bringing to reality all our designs in this period, including the Industrial project for Dr.Oetker India. Made completely in Precast pretension concrete, it is a testimony to the creativity and dexterity of M/s RSM Engineering consultants.
+    Efficient analysis of structural models on software such as e-tabs ensures that each design is reliable and economical. Timely delivery is another highlight of RSMs workflow and we have always found them to be accommodating to changes and modifications.
   author: "-Dipankar Mazumdar, ENAR CONSULTANTS"
 members:
 - image: "/uploads/WhatsApp_Image_2019-10-06_at_11.45.30_PM.jpg"
