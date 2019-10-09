@@ -9,9 +9,9 @@ Field name:
 layout: post
 ---
 
-## Client: ENAR CONSULTANTS 
-## Location: Bhiwari, Rajasthan 
-## Area: 2,34,000 SQ.FT!
+ **Client:** ENAR CONSULTANTS 
+ **Location:** Bhiwari, Rajasthan 
+ **Area:** 2,34,000 SQ.FT!
 
 ![Dr Oetkar 2.jpg](/uploads/Dr%20Oetkar%202.jpg)
 
