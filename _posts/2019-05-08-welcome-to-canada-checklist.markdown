@@ -9,7 +9,7 @@ Field name:
 layout: post
 ---
 
-## Client: M/S Morphogensis  
+ **Client:** M/S Morphogensis  
 
 Proposed Project is having two main blocks Academic and Hostel block.
 Academic block is a long rectangular RCC block having Basement+Ground+3 floors above. Three expansion joints have been proposed to break the long block into four small blocks as per the IS codes. Room size is approximately 8.5mx9.5m having coffer slab. One block of the academic block is having auditorium also. Roof of the auditorium has been proposed as steel truss roof as span is approximately 22.0m.
