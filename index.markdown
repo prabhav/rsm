@@ -83,7 +83,7 @@ testimonials:
     Today they are sifting to a new ultramodern workplace and we at Enar consultants wish them all the success that they richly deserve.
   author: "-Dipankar Mazumdar, ENAR CONSULTANTS"
 members:
-- image: "/uploads/WhatsApp%20Image%202019-10-06%20at%2011.45.30%20PM.jpeg"
+- image: "/uploads/Webp.net-resizeimage.jpg"
   name: Rajiv Sharma
   position: Founder and Partner
   desc: Structural Engineering is one of the most fascinating profession on our planet.
