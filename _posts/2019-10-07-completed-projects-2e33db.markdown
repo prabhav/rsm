@@ -6,7 +6,7 @@ categories:
 image: "/uploads/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
 ---
 
-** 1. Proposed Morning and Evening college in Dyal Singh Campus, Delhi University: **
+**1. Proposed Morning and Evening college in Dyal Singh Campus, Delhi University:** 
 Both Morning and evening colleges are Moment Resistant RCC framed structure with few sghear walls.
 Soil where evening college is coming is very bad. It is a filled up soil upto 7 meter depth so pile foundation has been recommended. The proposed structure is G+9 but going to be built G+4 in phase one.
 Soil where morning college is coming is good at 3 meter below NGL so one basement is going to be constructed for parking. The proposed structure is G+9 but going to be built G+4 in phase one.
