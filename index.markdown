@@ -19,8 +19,9 @@ slides:
   tagline: 'We make every possible effort to provide a service to our clients of high
     quality, while providing for the professional growth and satisfaction of our group. '
 - image: "/uploads/Panipat%20School%202-73b396.JPG"
-  title: 
-  tagline: 
+  title: 'Nationwide '
+  tagline: We have completed over 1000 projects nationwide, providing our clients
+    with the highest quality of design and service.
 intro: We are an engineering organisation operating on national level.  Currently
   we are using finite element software SAP2000-Non Linear, ETABS Non-Linear and SAFE
   developed by Computers and Structures Inc. Berkeley, U.S.A. for analysis and design
