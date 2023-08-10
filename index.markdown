@@ -4,9 +4,9 @@ date: 2019-03-23 03:01:00 +05:30
 slides:
 - image: "/uploads/Dr.%20Oetkar%201-937801.jpg"
   title: RSM Engineering Consultants
-  tagline: Our principal focus is on the practice of structural engineering, wherein
-    we provide a rational and responsible approach to engineering problems while seeking
-    a reasonable security and compensation for all within the firm.
+  tagline: Our best principal focus is on the practice of structural engineering,
+    wherein we provide a rational and responsible approach to engineering problems
+    while seeking a reasonable security and compensation for all within the firm.
   buttons:
   - text: Send Enquiry
     class: small
